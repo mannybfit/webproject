@@ -1,0 +1,55 @@
+/*
+  white: #FFFFFF
+  navy blue: #000080
+  coral: #FF7F50
+*/
+
+body {
+    Background-color: #E6E6FA;
+    padding: 0px 24px 36px 24px;
+    }
+
+a {
+    color: #593814;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #A020F0;
+}
+
+h1, h2, h3 {
+Color: #000080
+    }
+
+h1 {
+text-align: center;
+    }
+
+p.pic {
+text-align: center;
+    }
+
+p, li, th, td {
+    font-size:1.2em
+}
+
+th, td {
+    text-align: center;
+    border-color: #800080;
+    border-style: solid;
+    border-width: 3px;
+    padding: 6px 12px 8px 16px;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+div {
+    text-align: center;
+    border-color: #FF7F50;
+     border-width: 3px;
+    padding: 6px 12px 8px 16px;
+}
